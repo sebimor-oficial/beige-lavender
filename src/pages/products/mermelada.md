@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: lorem-ipsum
 description: lorem-ipsum
-price: lorem-ipsum
+price: spotify youtube
 order: 0
 section: Store
 featured: false
